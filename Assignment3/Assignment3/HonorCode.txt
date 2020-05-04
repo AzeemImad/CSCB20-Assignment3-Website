@@ -1,0 +1,16 @@
+Honor Code: I pledge that this program represents my own program code and that
+We have coded on my own. I received help from no one in designing and debugging
+my program. I have also read the plagiarism section in the course info sheet
+of CSC B20 and understand the consequences.
+
+Student 1:
+First name: Azeemuddin
+Last name: Imad Mohammed
+UtorID: imadmoha
+Student Number: 1004352728
+
+Student 2:
+First name: Si Yuen
+Last name: Lam
+UtorID: lamsi2
+Student Number: 1005396046
